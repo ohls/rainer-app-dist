@@ -1,9 +1,9 @@
 {
-  "version": "00.00.02-draft02",
+  "version": "00.00.02-draft04",
   "files": [
     {
-      "f": "www/assets/index-22871c1f.js",
-      "s": 84508
+      "f": "www/assets/index-7f72f22f.js",
+      "s": 85143
     },
     {
       "f": "www/assets/index-cb822bae.css",
@@ -11,7 +11,7 @@
     },
     {
       "f": "www/index.html",
-      "s": 543
+      "s": 558
     }
   ]
 }
